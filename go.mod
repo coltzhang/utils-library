@@ -1,4 +1,4 @@
-module github.com/utils-library
+module github.com/coltzhang/utils-library
 
 go 1.16
 
