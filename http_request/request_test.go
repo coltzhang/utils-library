@@ -1,7 +1,7 @@
 package http_request
 
 import (
-	"github.com/utils-library/http_request/types"
+	"github.com/coltzhang/utils-library/http_request/types"
 	"testing"
 )
 
