@@ -3,7 +3,7 @@ package utils
 import "testing"
 
 func TestUtils(t *testing.T) {
-	str := `{"a": 1, "b": 2}`
+	str := `{"a": 1, "b": "b"}`
 	m, err := JsonDecode(str)
 	if err != nil {
 		t.Errorf("err:%v", err)
